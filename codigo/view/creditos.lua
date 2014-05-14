@@ -34,11 +34,6 @@ end
 function scene:willEnterScene( event )
     local group = self.view
     print('passando willEnterScene ')
-    -----------------------------------------------------------------------------
-
-    --      This event requires build 2012.782 or later.
-
-    -----------------------------------------------------------------------------
 
 end
 
@@ -47,12 +42,6 @@ end
 function scene:enterScene( event )
     local group = self.view
     print('passando enterScene ')
-    -----------------------------------------------------------------------------
-
-    --      INSERT code here (e.g. start timers, load audio, start listeners, etc.)
-
-    -----------------------------------------------------------------------------
-
 end
 
 
@@ -60,12 +49,6 @@ end
 function scene:exitScene( event )
     local group = self.view
     print('passando exitScene ')
-    -----------------------------------------------------------------------------
-
-    --      INSERT code here (e.g. stop timers, remove listeners, unload sounds, etc.)
-
-    -----------------------------------------------------------------------------
-
 end
 
 
