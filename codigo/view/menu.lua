@@ -20,7 +20,12 @@ function scene:createScene( event )
     local creditosHandler = function( event )
         storyboard.gotoScene( "view.creditos", "fade", 400 )
     end
+
 	-- teste conflito
+	-- Teste sobreposição1.
+	-- Teste sobreposição2.
+	-- Teste sobreposição3.
+	-- Teste sobreposição4.
 	-- Chamada da biblioteca de manipulação json.
     local btnJogar = widget.newButton
     {
