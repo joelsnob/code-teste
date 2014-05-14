@@ -20,7 +20,7 @@ function scene:createScene( event )
     local creditosHandler = function( event )
         storyboard.gotoScene( "view.creditos", "fade", 400 )
     end
-	
+	-- teste conflito
 	-- Chamada da biblioteca de manipulação json.
     local btnJogar = widget.newButton
     {
