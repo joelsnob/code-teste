@@ -15,6 +15,7 @@ local jog9
 local jog10
 local jog11
 
+-- Objeto para representação do level.
 local gameLevel = {
     level,
 }
