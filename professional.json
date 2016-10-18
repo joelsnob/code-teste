@@ -1,37 +1,37 @@
 [
   {
-    nome: "Leandro Araújo",
-    cargo: "Designer",
-    slug: "leandro-araujo",
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed elementum orci, vitae euismod urna. Curabitur tristique in orci quis ultrices. Curabitur id ornare sem, vel faucibus ex. Pellentesque bibendum at mauris et lacinia. Ut sit amet aliquam felis. Curabitur in accumsan risus. Maecenas interdum ultricies velit ac vestibulum.",
-    tecnologias: ["html", "css", "javascript", "angular js", "react", "illustrator", "ui", "ux", "photoshop"]
+    "nome": "Leandro Araújo",
+    "cargo": "Designer",
+    "slug": "leandro-araujo",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed elementum orci, vitae euismod urna. Curabitur tristique in orci quis ultrices. Curabitur id ornare sem, vel faucibus ex. Pellentesque bibendum at mauris et lacinia. Ut sit amet aliquam felis. Curabitur in accumsan risus. Maecenas interdum ultricies velit ac vestibulum.",
+    "tecnologias": ["html", "css", "javascript", "angular js", "react", "illustrator", "ui", "ux", "photoshop"]
   },
   {
-    nome: "Carlos Mar",
-    cargo: "Product Owner",
-    slug: "carlos-mar",
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis rhoncus tincidunt consectetur. Curabitur eu mi eu dui commodo blandit. Duis mattis, eros iaculis volutpat commodo, elit ipsum malesuada ligula, a eleifend nunc augue vel mauris. Aenean in velit bibendum, commodo nisi non, varius nulla. Morbi quis sollicitudin leo.",
-    tecnologias: ["mvp", "pacote office", "backlog", "kanban", "python"]
+    "nome": "Carlos Mar",
+    "cargo": "Product Owner",
+    "slug": "carlos-mar",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis rhoncus tincidunt consectetur. Curabitur eu mi eu dui commodo blandit. Duis mattis, eros iaculis volutpat commodo, elit ipsum malesuada ligula, a eleifend nunc augue vel mauris. Aenean in velit bibendum, commodo nisi non, varius nulla. Morbi quis sollicitudin leo.",
+    "tecnologias": ["mvp", "pacote office", "backlog", "kanban", "python"]
   },
   {
-    nome: "Joel Oliveira",
-    cargo: "Matador de Aluguel",
-    slug: "joel-oliveira",
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sapien massa, vulputate sed tortor ut, fermentum convallis felis. Duis sollicitudin molestie massa, at consequat arcu lobortis id.",
-    tecnologias: ["java", "angular js", "javascript", "typescript", "android"]
+    "nome": "Joel Oliveira",
+    "cargo": "Matador de Aluguel",
+    "slug": "joel-oliveira",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sapien massa, vulputate sed tortor ut, fermentum convallis felis. Duis sollicitudin molestie massa, at consequat arcu lobortis id.",
+    "tecnologias": ["java", "angular js", "javascript", "typescript", "android"]
   },
   {
-    nome: "Luiz Marcelo Martins Franco",
-    cargo: "Assistidor de Anime",
-    slug: "luiz-franco",
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam enim, porttitor ac vulputate non, maximus eget nisl. Quisque suscipit, massa vitae vehicula mollis, nisl sem imperdiet ligula, in tincidunt dui sem vitae purus.",
-    tecnologias: ["java", "angular js", "javascript", "typescript", "android"]
+    "nome": "Luiz Marcelo Martins Franco",
+    "cargo": "Assistidor de Anime",
+    "slug": "luiz-franco",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam enim, porttitor ac vulputate non, maximus eget nisl. Quisque suscipit, massa vitae vehicula mollis, nisl sem imperdiet ligula, in tincidunt dui sem vitae purus.",
+    "tecnologias": ["java", "angular js", "javascript", "typescript", "android"]
   },
   {
-    nome: "Eder Franco",
-    cargo: "PHPista",
-    slug: "eder-franco",
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio velit, accumsan pellentesque lectus nec, imperdiet vestibulum leo. Nunc pharetra massa vel arcu volutpat blandit.",
-    tecnologias: ["php", "angular js", "javascript", "typescript", "photoshop"]
+    "nome": "Eder Franco",
+    "cargo": "PHPista",
+    "slug": "eder-franco",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas odio velit, accumsan pellentesque lectus nec, imperdiet vestibulum leo. Nunc pharetra massa vel arcu volutpat blandit.",
+    "tecnologias": ["php", "angular js", "javascript", "typescript", "photoshop"]
   }
 ]
